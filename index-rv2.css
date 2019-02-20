@@ -1,0 +1,62 @@
+body {
+	font-family: "Century Gothic";
+	background-color: white;
+	background-image: 
+	margin: 0 auto;
+	width: auto;
+	padding: 10px 150px;
+	border-left: 150px;
+	border-right: 150px;
+	border-color: grey solid;
+}
+
+h1 {
+	font-weight: solid;
+	color: lightseagreen;
+	font-size: 78.25px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+div.box {
+	border-bottom: 3px lightseagreen solid;
+	border-top: 3px lightseagreen solid;
+	padding-bottom: 0;
+	padding-top: 5px;
+	overflow: hidden;
+	vertical-align: middle;
+	display: block;
+	text-align: center;
+	width: auto;
+}
+
+div.box img {
+	display: inline-block;
+	margin-left-right: auto;
+}
+
+.chickenadobo, .garni {
+	width: 49%;
+	height: 300px;
+	float: left;
+	margin: 5px;
+	display: inline-block;
+	border-bottom: 2px solid lightseagreen;
+	border-top: 2px solid lightseagreen;
+	vertical-align: middle;
+}
+
+div.garni img {
+	display: inline-block;
+	float: right;
+}
+
+h2, h3 {
+	color: dimgrey;
+}
+
+
+
+
+
+
